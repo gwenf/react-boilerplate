@@ -1,3 +1,3 @@
-# React Timer Application
+# React Boilerplate
 
-Has countdown and stopwatch functions.
+Includes webpack, foundation, and testing with karma.
